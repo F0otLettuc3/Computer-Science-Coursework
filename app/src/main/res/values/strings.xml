@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShieldNet</string>
+    <string-array name="Features">
+        <item>Password Checker</item>
+        <item>Latency Checker</item>
+        <item>Network Scan</item>
+    </string-array>
+
+</resources>
